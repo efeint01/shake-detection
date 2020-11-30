@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake Detection</string>
+    <string name="shake_count">Shake Count: </string>
+</resources>
